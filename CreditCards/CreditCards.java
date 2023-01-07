@@ -1,13 +1,13 @@
 
 /**
- * Write a description of class CreditCards here.
+ * 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author ROBERTO GULISANO
+ * @version1.0
  */
 public class CreditCards
 {
-    // instance variables - replace the example below with your own
+    
    private String cardNumber;
    private double balance;
    private double interestRate;
