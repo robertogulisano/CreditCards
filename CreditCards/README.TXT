@@ -7,7 +7,7 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: Creditcards
 
 PURPOSE OF PROJECT:
-reate a new project in your Java development environment and create a class called CreditCard. The CreditCard class should have the following fields:
+Create a new project in your Java development environment and create a class called CreditCard. The CreditCard class should have the following fields:
 
 cardNumber: a string that represents the credit card number
 balance: a double that represents the current balance on the credit card
